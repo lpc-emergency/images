@@ -2,3 +2,7 @@
   body .container .contextual #content #wrapper .screen .header h2 span{
         color: #2657F0 !important;
 }
+#content #wrapper .screen-header span {
+
+color: #cccccc;
+}
