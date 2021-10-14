@@ -1,8 +1,4 @@
-/* Contextualization : avoir le texte tout en noir ---------------- */
-  body .container .contextual #content #wrapper .screen .header h2 span{
-        color: #2657F0 !important;
-}
-#content #wrapper .screen-header span {
-
-color: #2657F0;
-}
+/* Contextualization : avoir le texte d'une couleur ---------------- */
+  #content #wrapper .screen-header span {
+  color: #2657F0;
+  }
