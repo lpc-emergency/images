@@ -5,21 +5,12 @@
 
 /*logo*/
 @media screen and (max-width: 1023px) {
-
   .screen-header {
-
     div.logo-wrapper {
-
       .logo {
-
         height: 35px;
-
         width: 107px;
-
       }
-
     }
-
   }
-
 }
